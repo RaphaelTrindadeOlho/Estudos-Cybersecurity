@@ -1,16 +1,41 @@
-# Jornada em Cybersecurity & Infraestrutura 🛡️
+# 🛡️ Cybersecurity & Infrastructure Journey
 
-Repositório para documentar meu progresso técnico na transição de carreira para a área de Segurança da Informação.
+Repositório dedicado à documentação técnica do meu progresso na área de Segurança da Informação, Infraestrutura Linux e Defesa de Redes.
 
 ## 🎯 Foco Atual
-* **Fundamentos de Redes e Segurança:** Trilha Cisco Skills for All.
-* **Exploração Linux:** Administração de sistemas e automação em ambiente Ubuntu.
-* **Práticas de Pentest:** Laboratórios práticos no Labex (Nmap, Hydra, etc).
+* **Network & Security Fundamentals:** Trilha Cisco Skills for All (Skills for All).
+* **Linux Exploration:** Administração de sistemas e automação em ambiente **Ubuntu**.
+* **Pentest Practice:** Laboratórios práticos no **Labex** (Nmap, Hydra, etc).
 
-## 📂 Organização do Estudo
-* `/cisco-cyber`: Anotações e certificados da Cisco.
-* `/linux-labs`: Scripts Bash e configurações de hardening.
-* `/writeups-labex`: Relatórios detalhados dos laboratórios práticos.
+---
 
-## 🛠️ Ferramentas em Estudo
-* Linux (Ubuntu), Docker, Nmap, Hydra, Wireshark.
+## 📂 Organização do Estudo (Navegação Direta)
+
+Clique nas pastas abaixo para acessar os relatórios e scripts:
+
+* [**/cisco-cyber**](./cisco-cyber)  
+  *Anotações teóricas e certificados das trilhas da Cisco Networking Academy.*
+
+* [**/linux-labs**](./linux-labs)  
+  *Scripts Bash, automações e guias de hardening de sistemas Linux.*
+
+* [**/writeups-labex**](./writeups-labex)  
+  *Relatórios detalhados de laboratórios práticos de segurança.*
+  * 📑 [Hydra Brute Force Analysis](./writeups-labex/hydra-brute-force) - *Reconnaissance & Brute Force simulation.*
+
+---
+
+## 🛠️ Ferramentas em Estudo & Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali,py,js,git" alt="Tools" />
+</p>
+
+* **OS:** Ubuntu Desktop / Server
+* **Containers:** Docker Orchestration
+* **Network Analysis:** Nmap, Wireshark, Hydra
+
+---
+
+## 🧠 Metodologia
+Minha abordagem é baseada no **Cubo de McCumber**, focando na proteção da **Confidencialidade, Integridade e Disponibilidade** dos dados em todos os estados.
