@@ -21,8 +21,9 @@ Clique nas pastas abaixo para acessar os relatórios e scripts:
 
 * [**/writeups-labex**](./writeups-labex)  
   *Relatórios detalhados de laboratórios práticos de segurança.*
-  * 📑 [Hydra Brute Force Analysis](./writeups-labex/hydra-brute-force) - *Reconnaissance & Brute Force simulation.*
-
+  * [Hydra Brute Force Analysis](./writeups-labex/hydra-brute-force) - *Reconnaissance & Brute Force simulation.*
+  * [Nmap Netword Reconnaissance](./writeups-labex/nmap-Fundamentals)
+  - *Varreduras de portas, detecção de serviões e gestões de logs.*
 ---
 
 ## 🛠️ Ferramentas em Estudo & Tech Stack
@@ -38,4 +39,4 @@ Clique nas pastas abaixo para acessar os relatórios e scripts:
 ---
 
 ## 🧠 Metodologia
-Minha abordagem é baseada no **Cubo de McCumber**, focando na proteção da **Confidencialidade, Integridade e Disponibilidade** dos dados em todos os estados.
+Minha abordagem é baseada no **Cubo de McCumber**, focando na proteção da **Confidencialidade, Integridade e Disponibilidade** (CIA Triad) dos dados em todos os estados.
